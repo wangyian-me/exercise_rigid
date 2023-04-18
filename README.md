@@ -37,12 +37,12 @@ This is the result when I apply a force equal to its gravity on the bottom-front
 
 This is the result when I apply a force equal to its gravity on the bottom-front-left point for each object.
 <p align="center">
-    <img src="imgs/GIF_3_0.gif.gif", height=480>
+    <img src="imgs/GIF_3_0.gif", height=480>
 </p>
 
 This is the result when I apply another attraction to the point (0, 0, 0.3) on the bottom-front-right point.
 <p align="center">
-    <img src="imgs/GIF_3_1.gif.gif", height=480>
+    <img src="imgs/GIF_3_1.gif", height=480>
 </p>
 
 Noticed that the edge-edge collision is well modeled.
